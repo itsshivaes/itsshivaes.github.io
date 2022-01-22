@@ -28,5 +28,5 @@ We like to learn new things and share them with others.
 
 ## 🌐 Most used languages 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivatechnicworld)](https://github.com/shivatechnicworld/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivatechnicworld)](https://github.com/shivatechnicworld)
 
