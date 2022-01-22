@@ -25,3 +25,8 @@ We like to learn new things and share them with others.
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=shivatechnicworld)](https://github.com/shivatechnicworld)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=shivatechnicworld.shivatechnicworld)](https://shivatechnicworldtech.blogspot.com)
+
+## 🌐 Most used languages 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivatechnicworld)](https://github.com/shivatechnicworld/github-readme-stats)
+
