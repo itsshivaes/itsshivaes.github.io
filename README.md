@@ -1,21 +1,27 @@
-### Hi there 👋
-### My Github stats
-- Welcome to Shiva Technic World Github page 🤗
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivatechnicworld)](https://github.com/shivatechnicworld/github-readme-stats)
+<p align="center">
+  <a href="https://shivatechnicworldtech.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://yt3.ggpht.com/ugp0sc-34R1dldWqENnsGF_8KEA_Uo--Ige3nlNvYv4nDsSL3Q254nFHS6jldi-ih5og66rz=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="my banner"></a>
+</p>
 
+<h3 align="center">
+Hi there, Welcome to Shiva Technic World GitHub page.</a> 👋
+</h3>
 
+<h2 align="center">
+</h2> 
 
-<!--
-**shivatechnicworld/shivatechnicworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We like to learn new things and share them with others.
 
-Here are some ideas to get you started:
+### 🤝 Connect with us:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.facebook.com/shivatechnicworld1/"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" alt="Image" width="21px"/></a>
+<a href="https://www.instagram.com/shivatechnicworld/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Image" width="21px"/></a>
+<a href="https://www.telegram.me/shivatechnicworld/"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg" alt="Image" width="21px"/></a>
+<a href="https://twitter.com/shivatechnicwo1/"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="Image" width="21px"/></a>
+<a href="https://www.youtube.com/c/ShivaTechnicWorld/"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" alt="Image" width="21px"/></a>
+</br>
+
+## 📈 GitHub Stats 
+
+[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=shivatechnicworld)](https://github.com/shivatechnicworld)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shivatechnicworld.shivatechnicworld)](https://shivatechnicworldtech.blogspot.com)
