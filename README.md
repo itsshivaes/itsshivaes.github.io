@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My Github stats
 
-[![Shiva Technic World's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/shivatechnicworld)
+
 
 
 <!--
