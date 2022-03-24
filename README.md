@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://shivatechnicworldtech.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://yt3.ggpht.com/ugp0sc-34R1dldWqENnsGF_8KEA_Uo--Ige3nlNvYv4nDsSL3Q254nFHS6jldi-ih5og66rz=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="my banner"></a>
-</p>
+
 
 <h3 align="center">
 Hi there, Welcome to Shiva Technic World GitHub page.</a> 👋
