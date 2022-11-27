@@ -22,8 +22,6 @@ We like to learn new things and share them with others.
 
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=shivaes207)](https://github.com/shivaes207)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shivaes207.shivaes207)](https://stw-web.blogspot.com)
-
 ## 🌐 Most used languages 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaes207)](https://github.com/shivaes207)
