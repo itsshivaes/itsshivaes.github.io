@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-Hi there, Welcome to Shiva Technic World GitHub page.</a> 👋
+Hi there, Welcome here.</a> 👋
 </h3>
 
 <h2 align="center">
