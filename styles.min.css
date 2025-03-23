@@ -47,3 +47,4 @@
 /* Dark mode background */}body.dark-mode .spinner{border:5px solid rgba(0,0,255,0.2);border-top:5px solid #4a90e2;}
 /* Spinner Animation */ @keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 /* Responsive Design */ @media (max-width:768px){.hamburger{display:block}body.dark-mode header nav ul{background:var(--background-dark);border-color:rgba(255,255,255,0.2)}header nav ul{display:none;flex-direction:column;gap:10px;position:absolute;top:60px;left:0;width:100%;background:var(--background-light);padding:1rem 0;border-bottom:1px solid #e5e5e5}header nav ul.active{display:flex}}
+/* Hidden */.hidden{opacity:0;visibility:hidden;transition:opacity .5s ease-out,visibility .5s ease-out}  
