@@ -26,10 +26,6 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 - **Lazy Loading & Smooth Animations**  
 - **Custom Styling & Theme Design**  
 
-## 📬 Contact  
-
-📧 **Email:** your@email.com  
-
 ---
 
 ⭐ **If you like my portfolio, consider giving this repo a star!** 🚀✨
