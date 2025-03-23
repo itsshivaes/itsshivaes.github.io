@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://itsshivaes.github.io/sitemap.xml
