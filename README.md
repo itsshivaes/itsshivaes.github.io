@@ -17,8 +17,6 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 - 🎨 **Modern & Responsive Design** – Works flawlessly on all devices  
 - 🌑 **Dark Mode Support** – Eye-friendly UI  
 - 🏎 **Fast & Optimized** – Lazy loading images, smooth animations  
-- 🔥 **Interactive Progress Bars** – Showcasing skills dynamically  
-- 📝 **Blog Integration** – Fetches latest posts automatically  
 
 ## 🏗 Built With  
 
