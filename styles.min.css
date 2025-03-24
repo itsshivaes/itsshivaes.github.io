@@ -29,7 +29,7 @@
 /* Dark Mode Toggle Button */ #theme-toggle{background:none;border:none;cursor:pointer;padding:0.5rem;display:flex;align-items:center;justify-content:center;transition:transform 0.3s ease}#theme-toggle:hover{transform:scale(1.1)}#theme-toggle svg{width:24px;height:24px;transition:opacity 0.3s ease}#moon-icon{display:none;
 /* Hide moon icon by default */}body.dark-mode #sun-icon{display:none;
 /* Hide sun icon in dark mode */}a{text-decoration:none;color:var(--primary-color)}body.dark-mode a{color:var(--secondary-color)}body.dark-mode #moon-icon{display:block;
-/* Show moon icon in dark mode */}.header-title img{width:40px;height:40px;display:block;vertical-align:center}.header-title{font-size:1.5rem;font-weight:600}.nav-right{display:flex;align-items:center;gap:10px}
+/* Show moon icon in dark mode */}.header-title svg{width:40px;height:40px;display:block;vertical-align:center;stroke:none}.header-title{font-size:1.5rem;font-weight:600}.nav-right{display:flex;align-items:center;gap:10px}
 /* Hamburger Menu */ .hamburger{display:none;cursor:pointer}.hamburger svg{width:24px;height:24px}
 /* Dark Mode Toggle Button */ #theme-toggle{background:none;border:none;cursor:pointer;padding:0.5rem;display:flex;align-items:center;justify-content:center;transition:transform 0.3s ease}#theme-toggle:hover{transform:scale(1.1)}#theme-toggle svg{width:24px;height:24px;transition:opacity 0.3s ease}#moon-icon{display:none;
 /* Hide moon icon by default */}body.dark-mode #sun-icon{display:none;
